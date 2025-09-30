@@ -13,7 +13,7 @@ At a games company, I collaborated closely with Product to explore agentic user 
 🛒 **Vodafone**  
 Led a team of 10 developers on the checkout flow. Maintained quality, pushed for best practices, and won the company’s most prestigious hackathon.
 
-🧩 **MMT**  
+🧩 **MMT | MSQ | A26**  
 Worked as an internal contractor, jumping across projects: building components from design systems, prepping for CMS integration, and helping develop an in-house React component library.
 
 🌐 **ScanLAB Projects**  
