@@ -5,7 +5,7 @@
 I’m a Front-End Engineer with over a decade of hands-on experience with Agile user stories (sizing, writing, reviewing, collaborating and comitting) into clean, maintainable, undoubtably accessible interfaces. I love working with Product, QA and Designers, and being able to deliver quality components and integrations. I am always open to trying something new and finding the right tool for the stack, especially the one that fits both the job and the team. That being said, it all begins somewhere with an Idea, and TypeScript.
 
 🛠️ **Tech & Tools**  
-Deep experience across modern frameworks (React, Vue, Svelte, etc.) and tooling like Docker, GitHub Actions, AWS, Fly.io, and private server setups. I’m comfortable contributing across the entire delivery pipeline — from code to deployment.
+Deep experience across modern frameworks (Svelte, Astro, React) and tooling like Docker, GitHub Actions, AWS, Fly.io, and private server setups. I’m comfortable contributing across the entire delivery pipeline — from code to deployment.
 
 🎮 **Recent Work**  
 At a games company, I collaborated closely with Product to explore agentic user experiences — building features powered by LLMs to enable client-driven dynamic functionality.
